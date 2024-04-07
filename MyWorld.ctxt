@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepareInitialMap()
+comment4.params=
+comment4.target=void\ generateInitialClouds()
+comment5.params=
+comment5.target=void\ prepareHealth()
+comment6.params=
+comment6.target=void\ prepareGenerators()
+comment7.params=
+comment7.target=void\ updateScore()
+comment7.text=\r\n\ This\ method\ updates\ the\ score\ based\ on\ the\ position\ of\ the\ bird\ relative\ to\ the\ pipes.\r\n\ It\ retrieves\ the\ horizontal\ position\ of\ the\ bird\ and\ iterates\ through\ each\ pipe\ to\ check\ if\ the\ bird's\ position\r\n\ is\ beyond\ the\ center\ of\ the\ pipe.\ If\ the\ bird\ has\ moved\ past\ a\ pipe\ center\ since\ the\ last\ frame,\r\n\ the\ score\ is\ incremented\ and\ a\ point\ sound\ is\ played.\ The\ method\ also\ keeps\ track\ of\ whether\ the\ bird\r\n\ was\ between\ pipes\ in\ the\ last\ frame\ to\ avoid\ counting\ the\ same\ pipe\ multiple\ times.\r\n
+numComments=8

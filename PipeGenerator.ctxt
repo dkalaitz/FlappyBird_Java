@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PipeGenerator
+comment1.params=score
+comment1.target=PipeGenerator(Score)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ generate()
+comment4.text=\r\n\ This\ method\ generates\ a\ pair\ of\ pipes\ for\ the\ game.\ It\ calculates\ the\ maximum\ height\ that\ the\ top\ pipe\ can\ have\ \r\n\ and\ generates\ a\ random\ height\ for\ it\ within\ the\ constraints.\ If\ the\ calculated\ height\ for\ either\ the\ top\ or\ bottom\ pipe\r\n\ is\ below\ the\ specified\ minimum\ height,\ it\ is\ adjusted\ accordingly.\r\n\ The\ top\ and\ bottom\ pipes\ are\ then\ created\ with\ their\ respective\ heights\ and\ added\ to\ the\ game\ world.\r\n
+comment5.params=
+comment5.target=void\ increaseDifficulty()
+comment6.params=
+comment6.target=void\ move()
+comment7.params=
+comment7.target=boolean\ checkBirdsCondition()
+numComments=8
